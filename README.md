@@ -2,9 +2,21 @@
 
 ###
 
+<p align="left"><a href="mailto:yujerry2002@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/jerry-yu-phytophile/">LinkedIn</a> 
+
+###
+
 <p align="left">My name is Jerry Yu. I'm an emerging data scientist focusing on 🪷 plant data at NC state 🐺.</p>
 
 ###
+
+<h2 align="left">Work Experience</h2>
+<ul>
+  <li>Undergrad Researcher @ 🌲🧬NC State Tree Improvement Cooperative April 2024 - Now</li>
+  <li>Statistical Programming Intern @ 🫁🗄️United Therapeutics - June to August 2023</li>
+  <li>Orchid Research Intern @ 🧪🪻Universidad de Cuenca - May 2023 </li>
+  <li>Plant Breeding Intern @ 🌷✖️🌹Mountain Crop Research Lab - May 2023 </li>
+</ul>
 
 <h2 align="left">I code with</h2>
 
